@@ -1,6 +1,6 @@
-# MATLAB® Interface *for AWS S3™*
+# MATLAB® Interface *for Amazon S3™*
 
-This is a MATLAB® interface for the Amazon Web Services S3™ service. This is a low-level, general interface that can be customized if the higher-level interface as provided in MATLAB does not support your needs. see here https://www.mathworks.com/help/matlab/import_export/work-with-remote-data.html for more details on what is provided in MATLAB.
+This is a MATLAB® interface for the Amazon S3™ service. This is a low-level, general interface that can be customized if the higher-level interface as provided in MATLAB does not support your needs. see here https://www.mathworks.com/help/matlab/import_export/work-with-remote-data.html for more details on what is provided in MATLAB.
 
 ## Requirements
 ### MathWorks products
